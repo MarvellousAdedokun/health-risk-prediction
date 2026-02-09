@@ -1,0 +1,27 @@
+Age,Gender,BMI,Blood Pressure,FBS,HbA1c,Family History of Diabetes,Smoking,Diet,Exercise,Actual,Predicted
+18,Male,17,Normal,80,5.0,Yes,Yes,Poor,No,No,No
+35,Male,25,Normal,120,6.4,No,Yes,Poor,No,Yes,Yes
+40,Female,30,High,140,7.1,No,No,Healthy,Regular,No,No
+45,Male,35,High,160,7.8,Yes,Yes,Poor,No,No,No
+35,Male,34,High,160,7.8,No,Yes,Poor,No,Yes,Yes
+23,Female,22,Normal,100,5.7,Yes,Yes,Poor,No,No,No
+33,Female,32,High,140,7.1,No,Yes,Poor,No,Yes,Yes
+32,Male,29,High,160,7.8,No,No,Healthy,Regular,No,No
+60,Female,59,High,260,11.3,No,No,Healthy,Regular,No,No
+75,Male,65,High,280,12.0,No,No,Healthy,Regular,No,No
+15,Male,14,Low,80,5.0,No,Yes,Poor,No,Yes,Yes
+25,Male,15,Normal,80,5.0,Yes,Yes,Poor,No,No,No
+63,Female,62,High,260,11.3,Yes,Yes,Poor,No,No,No
+40,Male,20,Normal,80,5.0,No,No,Healthy,Regular,No,No
+25,Male,24,Normal,120,6.4,No,Yes,Poor,No,Yes,Yes
+22,Male,19,Normal,120,6.4,Yes,Yes,Poor,No,No,No
+70,Female,60,High,260,11.3,Yes,Yes,Poor,No,No,No
+55,Male,54,High,240,10.6,No,No,Healthy,Regular,No,No
+27,Female,24,High,140,7.1,No,Yes,Poor,No,Yes,Yes
+20,Female,19,Normal,100,5.7,Yes,Yes,Poor,No,No,No
+35,Male,25,Normal,120,6.4,No,No,Healthy,Regular,No,No
+65,Male,35,Normal,120,6.4,Yes,Yes,Poor,No,No,Yes
+47,Female,44,High,220,9.9,Yes,Yes,Poor,No,No,No
+75,Female,40,Normal,140,7.1,Yes,Yes,Poor,No,No,Yes
+37,Female,34,High,180,8.5,No,No,Healthy,Regular,No,No
+23,Female,22,Normal,100,5.7,No,No,Healthy,Regular,No,No
